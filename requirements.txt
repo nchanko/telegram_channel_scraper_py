@@ -1,0 +1,4 @@
+nest_asyncio==1.5.7
+pandas==2.2.1
+Pyrogram==2.0.106
+python-dotenv==1.0.1
