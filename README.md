@@ -17,3 +17,6 @@ This script, developed by Nyein Chan Ko Ko, is designed to scrape messages from 
 ## Notes
 - Ensure your phone number is linked to a Telegram account.
 - You might need to implement additional code to handle timeouts during scraping.
+
+## For more link
+- Plz follow [this link to run on free colaab notebook.](https://colab.research.google.com/drive/1Qt2ZgTrN9qTrXhUM2MsrU5cwSME4wFZl)
